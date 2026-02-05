@@ -54,3 +54,13 @@ footer{
   body>*{padding-left:14px;padding-right:14px;}
   nav{font-size:.98rem;line-height:1.8;}
 }
+/* Archive-style images */
+.archive-image {
+  display: block;
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  margin: 1.5rem auto;
+  border: 1px solid #c8c1b4;
+  background: #f7f4ec;
+}
