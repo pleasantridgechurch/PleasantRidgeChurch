@@ -1,16 +1,13 @@
-## Hi there 👋
+# Pleasant Ridge Covenant Church
 
-<!--
-**pleasantridgechurch/PleasantRidgeChurch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains a fictional archival website documenting the history,
+sermons, and records of Pleasant Ridge Covenant Church.
 
-Here are some ideas to get you started:
+The materials are presented as they were preserved. Some records are incomplete.
+No attempt has been made to reconcile gaps or inconsistencies beyond what the
+archive itself allows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+There is no interactive component beyond reading.
+
+Visitors are encouraged to approach the site as they would any institutional
+record: attentively, but without expectation of resolution.
